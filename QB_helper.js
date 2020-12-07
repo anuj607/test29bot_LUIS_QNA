@@ -2,12 +2,7 @@ var API_URL="https://api.quickbase.com/v1/";
 var Hostname="techforops.quickbase.com";
 var QB_Token="b5by7c_pdjj_cbaygybckqf7ykb8ixdvrpjqme5";
 var Table={};
-Table.employees='bqzpvai5q';
-Table.match='bqzpvk4df';
-Table.goals='bqzpt9t93';
-Table.goalsComments='bqzpucifu';
-Table.goalsReplies='bqzpuezke';
-Table.AppTable='bqzpdsmf6';
+
 
 var API_header={
     "Authorization": `QB-USER-TOKEN ${QB_Token}`,
